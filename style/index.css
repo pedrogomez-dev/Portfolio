@@ -1,0 +1,87 @@
+@import url('https://fonts.googleapis.com/css2?family=Winky+Sans:ital,wght@0,300..900;1,300..900&display=swap');
+
+h1{
+    font-size: 6vw;
+    font-family: "Winky Sans", sans-serif;
+    color: #000;
+}
+h2{
+    font-size: 2vw;
+    font-family: serif;
+}
+section p{
+    font-family: serif;
+    font-size:1.2em; ;
+    text-align: justify;
+    background-color: #E5E1DA;
+    padding: 10px;
+    border-radius: 15px;
+}
+.underline{
+    text-decoration: underline #222831;
+}
+.title{
+    text-align: center;
+}
+.marketing{
+    margin-top: 100px;
+    text-align: center;
+}
+.in-hover{
+    color: inherit;
+    transition: 0.5s ease;
+}
+.in-hover:hover{
+    color: #000000;
+    background-color: #B3C8CF;
+    border-radius: 5px;
+}
+.square{
+    display: flex;
+    justify-content: center;
+}
+.square img{
+    background-color: #B3C8CF;
+    padding: 25px;
+    border-radius: 80px;
+    overflow: visible;
+}
+.bottom{
+    display: grid;
+    gap: 10px;
+}
+.top-space{
+    margin-top: 755px;
+}
+.texts-span{
+    font-weight: bold;
+}
+.space-around{
+    display: flex;
+    justify-content: space-around;
+}
+@media(max-width:992px){
+    .bottom{
+        margin-bottom: 60px;
+    }
+    .marketing{
+        margin-top: 80px;
+    }
+    h1{
+        font-size: 10vw;
+    }
+    h2{
+        font-size: 7vw;
+    }
+}
+@media(max-width:393px) {
+    .marketing{
+        margin-top: 50px;
+    }
+    h1{
+        font-size: 12vw;
+    }
+    h2{
+        font-size: 9vw;
+    }
+}

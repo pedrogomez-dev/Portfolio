@@ -1,0 +1,13 @@
+.card-link {
+    display: block; /* Hace que el enlace ocupe todo el espacio */
+    text-decoration: none; /* Elimina el subrayado */
+    color: inherit; /* Hereda el color del texto */
+}
+.card{
+    transition: transform 0.4s ease;
+    overflow: hidden;
+    z-index: 1;
+}
+.card:hover{
+    transform: scale(1.05);
+}

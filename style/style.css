@@ -1,0 +1,41 @@
+body{
+    background-color: #F1F0E8;
+    height: 100vh;
+}
+nav{
+    background-color: #89A8B2;
+    color: #F1F0E8;
+}
+li{
+    margin: 5px;
+}
+footer{
+    margin-top: 50px;
+    h5{
+    color:#0e90e4;
+    margin-bottom: 40px;
+    }
+    color :#637280;
+    text-align: center;
+}
+footer span{
+    color:#F1F0E8 ;
+}
+.svgs{
+    margin-right: 7px;
+}
+.size-svg{
+    height: 140px;
+    width: 140px;
+}
+.socialmedia{
+    display: flex;
+    justify-content: space-between;
+}
+.socialmedia img{
+    width: 35px;
+}
+.text-white{
+    display: flex;
+    align-items: center;
+}
