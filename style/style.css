@@ -39,3 +39,13 @@ footer span{
     display: flex;
     align-items: center;
 }
+.space-around{
+    display: flex;
+    justify-content: space-around;
+}
+@media(max-width: 949px){
+    .space-around{
+        display: block;
+        width: 100%;
+    }
+}
