@@ -1,7 +1,7 @@
 # Pedro Gómez Portfolio
 
 ## Descripción
-Este es el portafolio personal de Pedro Gómez, diseñado para que los reclutadores puedan ver mi trabajo de manera más sencilla. El objetivo principal es mostrar páginas web básicas creadas por mí, dirigidas a empleadores que buscan evaluar mis habilidades en desarrollo web.
+Este es mi portafolio personal, diseñado para que los reclutadores puedan ver mi trabajo de manera más sencilla. El objetivo principal es mostrar páginas web básicas creadas por mí, dirigidas a empleadores que buscan evaluar mis habilidades en desarrollo web.
 
 ## Características
 - Tres secciones: **Home**, **Projects**, y **Contact Me**.
@@ -13,18 +13,12 @@ Este es el portafolio personal de Pedro Gómez, diseñado para que los reclutado
 - CSS
 - Bootstrap
 - Futuro: JavaScript (JQuery, Node & Express)
-
-## Instalación
-No es necesario instalar nada, ya que es una página web accesible en línea.
-
+  
 ## Uso
 El portafolio incluye enlaces a mis proyectos y a mi perfil de GitHub, permitiendo a los visitantes explorar mi trabajo.
 
-## Contribuciones
-No se aceptan contribuciones externas en este proyecto.
-
 ## Licencia
-Este proyecto está bajo la Licencia MIT. (Puedes cambiar esto si prefieres otra licencia)
+Este proyecto está bajo la Licencia MIT.
 
 ## Contacto
 Pedro Gómez - [pipefinn123@gmail.com] | Discord: pedrinho5640
