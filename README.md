@@ -27,4 +27,4 @@ No se aceptan contribuciones externas en este proyecto.
 Este proyecto está bajo la Licencia MIT. (Puedes cambiar esto si prefieres otra licencia)
 
 ## Contacto
-Pedro Gómez - [tuemail@example.com](mailto:tuemail@example.com) | Discord: tu_discord_username
+Pedro Gómez - [pipefinn123@gmail.com] | Discord: pedrinho5640
