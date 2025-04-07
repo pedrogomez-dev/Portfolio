@@ -7,6 +7,7 @@ Este es mi portafolio personal, diseñado para que los reclutadores puedan ver m
 - Tres secciones: **Home**, **Projects**, y **Contact Me**.
 - Diseño responsivo que se adapta a diferentes dispositivos.
 - Enlaces directos a mis proyectos y a mi perfil de GitHub.
+- Desarrollo en Producción
 
 ## Tecnologías Utilizadas
 - HTML
