@@ -13,13 +13,9 @@ Este es mi portafolio personal, diseñado para que los reclutadores puedan ver m
 - HTML
 - CSS
 - Bootstrap
-- Futuro: JavaScript (JQuery, Node & Express)
   
 ## Uso
 El portafolio incluye enlaces a mis proyectos y a mi perfil de GitHub, permitiendo a los visitantes explorar mi trabajo.
-
-## Licencia
-Este proyecto está bajo la Licencia MIT.
 
 ## Contacto
 Pedro Gómez - [pipefinn123@gmail.com] | Discord: pedrinho5640
