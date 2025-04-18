@@ -1,0 +1,16 @@
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center
+}
+.foto{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+.foto img{
+    border-radius: 10px;
+}
+.centrar{
+    text-align: center;
+}
